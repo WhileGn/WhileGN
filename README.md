@@ -1,8 +1,6 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbko0RkVoV0xtbVdYWjdHdVc4U29vT0RhN1ZlZ3xBQ3Jtc0trODJ0ajBTUjVPX1lDRWFaU1FsdVpnZ2ptdTdpdnhGNHc3czBoNjZWb0x3UUZUdUItM25tU05yMXlONUk2TlZvUEstd1NTNzU0QXhPNkhvQ3NLUGttUVVaZHJ1ZFlnSjFJTUhFSzVvY2J3SzdVVEFqQQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE](https://rishavchanda.io)
-
 
 <h1 align="center">Hi 👋, I'm Mani</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A frontend (React js | Next js) developer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:496/0*Kf8Cv4yPJLP8gJ0t.gif">
 
