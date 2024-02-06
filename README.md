@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mani</h1>
 <h3 align="center">A frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:496/0*Kf8Cv4yPJLP8gJ0t.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:496/0*Kf8Cv4yPJLP8gJ0t.gif">
 
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
