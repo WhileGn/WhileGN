@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4e/9e/1f/4e9e1f5a41b738e3066d135da871a46c.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Mani</h1>
