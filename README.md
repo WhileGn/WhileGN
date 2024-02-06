@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" height="400"  src="https://s3.ap-southeast-1.amazonaws.com/chanceupon/public/images/main_image/blogs/40/original/cu-chatbot.gif">
+[![MasterHead](https://s3.ap-southeast-1.amazonaws.com/chanceupon/public/images/main_image/blogs/40/original/cu-chatbot.gif](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Mani</h1>
