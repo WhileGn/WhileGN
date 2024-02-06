@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.ap-southeast-1.amazonaws.com/chanceupon/public/images/main_image/blogs/40/original/cu-chatbot.gif](https://rishavchanda.io)
+[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbko0RkVoV0xtbVdYWjdHdVc4U29vT0RhN1ZlZ3xBQ3Jtc0trODJ0ajBTUjVPX1lDRWFaU1FsdVpnZ2ptdTdpdnhGNHc3czBoNjZWb0x3UUZUdUItM25tU05yMXlONUk2TlZvUEstd1NTNzU0QXhPNkhvQ3NLUGttUVVaZHJ1ZFlnSjFJTUhFSzVvY2J3SzdVVEFqQQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Mani</h1>
