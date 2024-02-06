@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif">
+<img align="right" alt="Coding" width="100%" height="400" src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif">
 
 
 <h1 align="center">Hi 👋, I'm Mani</h1>
